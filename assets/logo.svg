@@ -1,0 +1,26 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Exerium">
+  <title>Exerium</title>
+  <defs>
+    <linearGradient id="exeriumGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="exeriumGradientSoft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(128,128)">
+    <polygon points="0,-100 87,-50 87,50 0,100 -87,50 -87,-50"
+             fill="none" stroke="url(#exeriumGradient)" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="0,-65 56,-32 56,32 0,65 -56,32 -56,-32"
+             fill="url(#exeriumGradientSoft)" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="22" fill="url(#exeriumGradient)"/>
+    <line x1="0" y1="-100" x2="0" y2="-65" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <line x1="87" y1="-50" x2="56" y2="-32" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <line x1="87" y1="50" x2="56" y2="32" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <line x1="0" y1="100" x2="0" y2="65" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <line x1="-87" y1="50" x2="-56" y2="32" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+    <line x1="-87" y1="-50" x2="-56" y2="-32" stroke="url(#exeriumGradient)" stroke-width="2.5"/>
+  </g>
+</svg>
