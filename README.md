@@ -48,3 +48,18 @@ Open an issue or say hi on Matrix.
 ## License
 
 GPL-3.0 — see [LICENSE](./LICENSE).
+
+
+<div align="center">
+
+<img src="./assets/logo-wordmark.svg" alt="Exerium" width="400"/>
+
+### Freedom, refined.
+
+Arch-based · Wayland-native · Privacy-first · Beautifully transparent
+
+[Website](https://exerium-os.github.io) · [Matrix](https://matrix.to/#/#exerium:matrix.org) · [Roadmap](./ROADMAP.md)
+
+</div>
+
+---
